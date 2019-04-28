@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/C__Experiment.dir/main.cpp.o CMakeFiles/C__Experiment.dir/Student.cpp.o CMakeFiles/C__Experiment.dir/Control.cpp.o  -o C__Experiment 
